@@ -3,7 +3,7 @@ package InterviewPractice;
 public class Loops {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub..
+		// TODO Auto-generated method stub.....
 		printNum(1);
 	    loopWithoutNos();
 	}
