@@ -10,7 +10,7 @@ public class Test1 {
 
 	public static void main(String[] args) {
 		
-		//System.out.println("Hellos");
+		//System.out.println("Hello");
 		
 		WebDriver driver =new ChromeDriver();
 		//System.setProperty("webdriver.chrome.driver", null);
