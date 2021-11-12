@@ -1,7 +1,7 @@
 package CustructorAndStrings;
 
 public class Person {
-	//Hellos
+	//Hello
 
 	String name;
 	int id;
